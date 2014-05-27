@@ -1,0 +1,9 @@
+C:\HubRepo1\WFA1\WFA1\bin\Debug\WFA1.exe.config
+C:\HubRepo1\WFA1\WFA1\bin\Debug\WFA1.exe
+C:\HubRepo1\WFA1\WFA1\bin\Debug\WFA1.pdb
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.csprojResolveAssemblyReference.cache
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.Form1.resources
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.Properties.Resources.resources
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.csproj.GenerateResource.Cache
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.exe
+C:\HubRepo1\WFA1\WFA1\obj\Debug\WFA1.pdb
