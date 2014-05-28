@@ -23,7 +23,7 @@ namespace WFA1
 //User2-makes a update which User1 doesn't know
 //User2-change now
 //User1-change & push
-//User2-now change at 12:09PM
+//User1 - change without Pull at 12:11
         }
     }
 }
