@@ -17,6 +17,7 @@ namespace WFA1
             InitializeComponent();
 //This is my individual module.
 //1-made changes to my module
+//2-made my second change to my module
         }
     }
 }
